@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4c52d15-4e6b-4f24-ae04-906ed7028547" name="Default Changelist" comment="" />
+    <list default="true" id="e4c52d15-4e6b-4f24-ae04-906ed7028547" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ydles_gateway/ydles_gateway_web/src/main/java/com/ydles/system/filters/UrlFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ydles_gateway/ydles_gateway_web/src/main/java/com/ydles/system/filters/UrlFilter.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/ydles_common/target/" />
     <ignored path="$PROJECT_DIR$/ydles_common_db/target/" />
     <ignored path="$PROJECT_DIR$/ydles_eureka/target/" />
@@ -109,8 +111,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ydles_gateway/ydles_gateway_web/src/main/java/com/ydles/system/filters/IpFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="412">
+              <caret line="30" column="38" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="30" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#630#631#0" expanded="true" />
@@ -123,12 +125,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ydles_gateway/ydles_gateway_web/src/main/java/com/ydles/system/filters/UrlFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="356">
+              <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#587#588#0" expanded="true" />
                 <element signature="e#630#631#0" expanded="true" />
                 <element signature="e#654#655#0" expanded="true" />
               </folding>
@@ -150,6 +150,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -208,6 +211,7 @@
     <option name="height" value="812" />
   </component>
   <component name="ProjectId" id="1zMAwMEnWARPyoz0z9EBfS16k7E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -225,6 +229,57 @@
               <item name="ydles_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="ydles_parent" type="462c0819:PsiDirectoryNode" />
               <item name="ydles_gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ydles_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ydles_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ydles_gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="ydles_gateway_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ydles_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ydles_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ydles_gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="ydles_gateway_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ydles_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ydles_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ydles_gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="ydles_gateway_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ydles_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ydles_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ydles_gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="ydles_gateway_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ydles_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ydles_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ydles_gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="ydles_gateway_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ydles_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ydles_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ydles_gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="ydles_gateway_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="filters" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ydles_parent" type="b2602c69:ProjectViewProjectNode" />
@@ -291,7 +346,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1644745564703" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1644745622456" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -409,15 +464,16 @@
       <workItem from="1634063265868" duration="161000" />
       <workItem from="1642863483335" duration="32170000" />
       <workItem from="1644512918639" duration="805000" />
-      <workItem from="1644513814486" duration="7898000" />
+      <workItem from="1644513814486" duration="8094000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40873000" />
+    <option name="totallyTimeSpent" value="41069000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="812" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -476,12 +532,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.17706822" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32946298" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" weight="0.4034833" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.4034833" />
       <window_info anchor="bottom" id="MyBatis Log" order="11" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32946298" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="bottom" id="Messages" order="15" />
@@ -831,8 +887,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ydles_gateway/ydles_gateway_web/src/main/java/com/ydles/system/filters/IpFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="412">
+          <caret line="30" column="38" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="30" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#630#631#0" expanded="true" />
@@ -843,12 +899,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ydles_gateway/ydles_gateway_web/src/main/java/com/ydles/system/filters/UrlFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="356">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
             <element signature="e#630#631#0" expanded="true" />
             <element signature="e#654#655#0" expanded="true" />
           </folding>
