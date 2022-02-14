@@ -1,11 +1,12 @@
 package com.ydles.system.service.impl;
 
-import com.ydles.system.dao.AdminMapper;
-import com.ydles.system.service.AdminService;
-import com.ydles.pojo.Admin;
 import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
+import com.ydles.system.dao.AdminMapper;
+import com.ydles.system.pojo.Admin;
+import com.ydles.system.service.AdminService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.crypto.bcrypt.BCrypt;
 import org.springframework.stereotype.Service;
 import tk.mybatis.mapper.entity.Example;
 
@@ -44,6 +45,11 @@ public class AdminServiceImpl implements AdminService {
      */
     @Override
     public void add(Admin admin){
+        String gensalt = BCrypt.gensalt();
+        String hashpw = BCrypt.hashpw(admin.getPassword(), gensalt);
+
+
+
         adminMapper.insert(admin);
     }
 
