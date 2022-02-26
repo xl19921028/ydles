@@ -20,6 +20,9 @@
         <module name="ydles_service_goods_api" />
         <module name="ydles_service_order" />
         <module name="ydles_service_order_api" />
+        <module name="ydles_service_page" />
+        <module name="ydles_service_search" />
+        <module name="ydles_service_search_api" />
         <module name="ydles_service_system" />
         <module name="ydles_service_system_api" />
         <module name="ydles_service_user" />
@@ -46,6 +49,9 @@
       <module name="ydles_service_goods_api" target="1.8" />
       <module name="ydles_service_order" target="1.8" />
       <module name="ydles_service_order_api" target="1.8" />
+      <module name="ydles_service_page" target="1.8" />
+      <module name="ydles_service_search" target="1.8" />
+      <module name="ydles_service_search_api" target="1.8" />
       <module name="ydles_service_system" target="1.8" />
       <module name="ydles_service_system_api" target="1.8" />
       <module name="ydles_service_user" target="1.8" />
@@ -70,6 +76,9 @@
       <module name="ydles_service_goods_api" options="-parameters" />
       <module name="ydles_service_order" options="-parameters" />
       <module name="ydles_service_order_api" options="-parameters" />
+      <module name="ydles_service_page" options="-parameters" />
+      <module name="ydles_service_search" options="-parameters" />
+      <module name="ydles_service_search_api" options="-parameters" />
       <module name="ydles_service_system" options="-parameters" />
       <module name="ydles_service_system_api" options="-parameters" />
       <module name="ydles_service_user" options="-parameters" />

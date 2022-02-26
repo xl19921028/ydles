@@ -21,6 +21,7 @@
     <file url="file://$PROJECT_DIR$/ydles_service/ydles_service_goods/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ydles_service/ydles_service_order" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ydles_service/ydles_service_order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ydles_service/ydles_service_search" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ydles_service/ydles_service_system" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ydles_service/ydles_service_system/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ydles_service/ydles_service_user" charset="UTF-8" />
@@ -34,10 +35,12 @@
     <file url="file://$PROJECT_DIR$/ydles_service_api/ydles_service_goods_api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ydles_service_api/ydles_service_order_api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ydles_service_api/ydles_service_order_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ydles_service_api/ydles_service_search_api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ydles_service_api/ydles_service_system_api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ydles_service_api/ydles_service_system_api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ydles_service_api/ydles_service_user_api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ydles_service_api/ydles_service_user_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ydles_service_page" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ydles_web" charset="UTF-8" />
   </component>
 </project>
